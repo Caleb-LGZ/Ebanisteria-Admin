@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>959406919026-0bh48357g973qserbudmfh49b832r9pm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.959406919026-0bh48357g973qserbudmfh49b832r9pm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>959406919026-7s4ucvurn30cvbve0bm0uis5d3nvl0gf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSnF4iLrBGRw_ReC8kzYCc95koVR0ufJQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>959406919026</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.ebanisteriaapp</string>
+	<key>PROJECT_ID</key>
+	<string>ebanisteria-b9b1e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ebanisteria-b9b1e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:959406919026:ios:d5c59fa1b86e06948f61eb</string>
+</dict>
+</plist>

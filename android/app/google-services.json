@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "959406919026",
+    "project_id": "ebanisteria-b9b1e",
+    "storage_bucket": "ebanisteria-b9b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959406919026:android:67c02571b082109f8f61eb",
+        "android_client_info": {
+          "package_name": "com.mycompany.ebanisteriaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959406919026-7s4ucvurn30cvbve0bm0uis5d3nvl0gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ebanisteriaapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "959406919026-83nu1sup3rbc0am5nm76n0vdq4606tlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqKZXfopKPT8IsL3DZEoerOZ6iUfhNCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959406919026-83nu1sup3rbc0am5nm76n0vdq4606tlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959406919026-0bh48357g973qserbudmfh49b832r9pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.ebanisteriaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
